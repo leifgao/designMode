@@ -3,7 +3,7 @@ package me.leifgao.fourteen.page124;
 /**
  * Created by leif on 2017/1/23
  */
-public class StartUp {
+public class StartUp124 {
     public static void main(String[] args) {
         Secretary qianTai = new Secretary();
 
